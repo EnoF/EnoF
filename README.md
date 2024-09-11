@@ -1,9 +1,9 @@
 <a href="https://github.com/EnoF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EnoF&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EnoF&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/EnoF"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnoF&cache_seconds=1800&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnoF&cache_seconds=1800&layout=compact&theme=tokyonight&hide=css,gherkin,html" />
 </a>
 
 <!-- 
